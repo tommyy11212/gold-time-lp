@@ -1,0 +1,22 @@
+/*
+============== background Color====================
+*/
+.stricky, #back-to-top, .progress .progress-bar, .textimonial_section:before, .textimonial_section:after,
+.price-value, .price-value.two, .price-value.three, .footer_social a:hover, .btn-text {
+  background: #009fe0;
+}
+
+/*
+============== Text Color====================
+*/
+h2 span, .btn-text:hover, a:hover, .rial_info span, .left_icon, .ser_detail i, .team_detail h3, .more_info i, .icon_conunt,
+.copy_right a, .more_info a:hover {
+  color: #009fe0;
+}
+
+/*
+============== Border Color====================
+*/
+.price-value, .price-value.two, .price-value.three, .cart1, .cart2, .cart3, .footer_social a:hover, .btn-text {
+  border-color: #009fe0;
+}

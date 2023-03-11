@@ -1,0 +1,30 @@
+﻿.footer{
+	background:#1d1d1d;
+}
+.footer_logo{
+	display: inline-block;
+}
+.copy_right a{color: #009fe0;}
+
+.copy_right{
+	margin:25px 0px;
+}
+.footer_social{
+	margin: 0px;
+}
+.footer_social a{
+	height: 40px;
+	width: 40px;
+	line-height: 40px;
+	margin: 0px 5px;
+	display: inline-block;
+	border-radius: 50%;
+	color: #fff;
+	border: 1px solid #fff;
+	transition: all 0.3s;
+}
+.footer_social a:hover{
+	background:#009fe0;
+	border-color: #009fe0;
+	color: #fff;
+}

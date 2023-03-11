@@ -1,0 +1,22 @@
+/*
+============== background Color====================
+*/
+.stricky, #back-to-top, .progress .progress-bar, .textimonial_section:before, .textimonial_section:after,
+.price-value, .price-value.two, .price-value.three, .footer_social a:hover, .btn-text {
+  background: linear-gradient(45deg, #B67B03 0%, #DAAF08 45%, #FEE9A0 70%, #DAAF08 85%, #B67B03 90% 100%);
+}
+
+/*
+============== Text Color====================
+*/
+h2 span, .btn-text:hover, a:hover, .rial_info span, .left_icon, .ser_detail i, .team_detail h3, .more_info i, .icon_conunt, 
+.copy_right a, .more_info a:hover {
+  color: linear-gradient(45deg, #B67B03 0%, #DAAF08 45%, #FEE9A0 70%, #DAAF08 85%, #B67B03 90% 100%);
+}
+
+/*
+============== Border Color====================
+*/
+.price-value, .price-value.two, .price-value.three, .cart1, .cart2, .cart3, .footer_social a:hover, .btn-text {
+  border-color: linear-gradient(45deg, #B67B03 0%, #DAAF08 45%, #FEE9A0 70%, #DAAF08 85%, #B67B03 90% 100%);
+}
